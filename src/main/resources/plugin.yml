@@ -1,0 +1,4 @@
+name: Idk
+version: '${project.version}'
+main: com.nayef.plugin.idk.Idk
+api-version: 1.18
